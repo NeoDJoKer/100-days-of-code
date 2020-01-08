@@ -146,15 +146,24 @@ Tensorflow, now with Keras, help people get start on Machine Learning and build 
 
 **Thoughts** Game engine is pretty interesting. How the layers work and the pixel move to create an illusion of the game is new to me. I was considering game engine like Unity or Unreal Engine (which are what I usually see on my game LOL), but pygame would be a good start. Also Unity did not support C++ (or it required some work to get it to code in C++) In the future, I will probably use Unreal Engine to work on my project since it support C++ and I want to have more experience in that languange.
 
+**Link(s) to work**
+1. Check my github: https://github.com/NeoDJoKer/PathPlanning
+
 ### Day 23: January 3, Friday
 
 **Today's Progress**: I work on the back-end of path planning by using google collab and jupyter. Finally, I implement the Breath-First Search
 
 **Thoughts** There are multiple path planning algorithm out there, which stem from graph theory. For my project though, each move to the next cell will cost only 1. However, in real world, the cost could be different and it get complicate. Though this is a good start, I should learn more about graph thoery to go in depth into path planning in general.
 
+**Link(s) to work**
+1. Check my github: https://github.com/NeoDJoKer/PathPlanning
+
 ### Day 24: January 5, Sunday
 
 **Today's Progress**: Finalizing Breath-First Search
+
+**Link(s) to work**
+1. Check my github: https://github.com/NeoDJoKer/PathPlanning
 
 ### Day 25: January 6, Monday
 
@@ -162,12 +171,16 @@ Tensorflow, now with Keras, help people get start on Machine Learning and build 
 
 **Thoughts** Most of the code is similar, I just have to modified the algorithm a little bit to make it work. Though for more complex problem with different cost, this won't be that easy.
 
+**Link(s) to work**
+1. Check my github: https://github.com/NeoDJoKer/PathPlanning
+
 ### Day 26: January 7, Tuesday
 
 **Today's Progress**: Finally Finish A*! Pretty cool algorithm.
 
 **Thoughts** A* is the best planning algorithm because it use heuristics to help decide the plan. For more complex case, this would be really useful.
 
-
+**Link(s) to work**
+1. Check my github: https://github.com/NeoDJoKer/PathPlanning
 
 
